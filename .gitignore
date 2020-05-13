@@ -1,0 +1,11 @@
+# file folders
+.idea
+__pycache__
+build
+dist
+
+# files
+
+*.json
+[0-9]*.wav
+
